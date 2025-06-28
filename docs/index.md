@@ -2,6 +2,10 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+An image:
+
+![](https://holocron.so/uploads/d9b15cc3-image.png)
+
 ```plaintext
 Hello
 ```

@@ -30,3 +30,14 @@ dhwrt
 Hello
 === "Python"
 Hello2
+
+```cs linenums="5"
+int million = 1_000_000;
+
+float mil = 1_000_000.3f;
+
+if (mil > 4)
+{
+  Console.WriteLine("Hello");
+}
+```

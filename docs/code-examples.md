@@ -1,4 +1,3 @@
-
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': 
 { 'primaryBorderColor': 'black', 
@@ -14,7 +13,6 @@ classDiagram
   }
 ```
 
-
 ```cs linenums="5"
 int hp = 100;
 
@@ -23,13 +21,23 @@ while (hp > 0)
   hp -= Random.Shared.Next(5);
   Console.WriteLine($"HP: {hp}");
 }
-
 ```
 
 !!! warning test
-    dhwrt
+dhwrt
 
 === "C#"
-    Hello
+Hello
 === "Python"
-    Hello2
+Hello2
+
+```cs linenums="5"
+int million = 1_000_000;
+
+float mil = 1_000_000.3f;
+
+if (mil > 4)
+{
+  Console.WriteLine("Hello");
+}
+```

@@ -1,0 +1,12 @@
+{
+"code": {
+        "prefix": "lncode",
+        "scope": "markdown",
+        "body": [
+            "```${1|python,c,c++,c#,ruby,go,java,php,htm,javascript,json,markdown,console|} linenums=\"1\"",
+            "$0${TM_SELECTED_TEXT}",
+            "```"
+        ],
+        "description": "A fenced code block with line numbers"
+    }
+}

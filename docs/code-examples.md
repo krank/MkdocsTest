@@ -6,7 +6,7 @@ classDiagram
   class Character{
         −_hp : int
         −_name : string 
-        +  Hurt(amount : int) void
+        + Hurt(amount : int) void
         + Attack() int
   }
 ```
@@ -21,14 +21,26 @@ while (hp > 0)
 }
 ```
 
-!!! warning test
-    dhwrt
+!!! warning Hello
+    aehteyj
 
 === "C#"
     Hello
 === "Python"
-Hello2
+    arewrh
 
 
+```c++ title="sdth" linenums="1"
+ahwrt6
+```
+    
 
 ![](assets/20250630003929.png)
+
+| Method      | Description                          |
+| ----------- | ------------------------------------ |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+
+++ctrl+alt++

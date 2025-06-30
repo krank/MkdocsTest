@@ -22,4 +22,11 @@
 - Lägga in bild/screenshot
   - Kopiera bilden
   - Klistra in med Ctrl+Alt+v
+    - Acceptera defaultnamn eller välj eget
     - Nu bör bilden hamna i assets-mappen, och en bild-tagg hamnar i texten
+- Klistra in kod: Ctrl+Alt+c
+- Snippets
+  - lncode: kodblock med radnummer & titel
+  - admon: inforutor
+  - cadmon: kollapsade inforutor
+  - tab: tabbat innehåll

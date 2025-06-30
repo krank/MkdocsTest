@@ -1,9 +1,7 @@
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': 
-{ 'primaryBorderColor': 'black', 
-'primaryColor': 'white'
-}}}%%
 
+
+
+```mermaid
 classDiagram
   class Character{
         −_hp : int
@@ -24,20 +22,13 @@ while (hp > 0)
 ```
 
 !!! warning test
-dhwrt
+    dhwrt
 
 === "C#"
-Hello
+    Hello
 === "Python"
 Hello2
 
-```cs linenums="5"
-int million = 1_000_000;
 
-float mil = 1_000_000.3f;
 
-if (mil > 4)
-{
-  Console.WriteLine("Hello");
-}
-```
+![](assets/20250630003929.png)

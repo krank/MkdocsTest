@@ -3,6 +3,8 @@ site_url: https://test.progdocs.se
 theme:
   name: material
   language: sv
+  icon:
+    logo: material/language-csharp
   font:
     text: Lato
     code: Source Code Pro
@@ -24,6 +26,9 @@ theme:
 markdown_extensions:
   - attr_list
   
+  # Grids
+  - md_in_html
+
   # Code blocks
   - pymdownx.highlight:
       anchor_linenums: true

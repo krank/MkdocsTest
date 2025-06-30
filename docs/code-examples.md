@@ -1,6 +1,5 @@
 
 
-
 ```mermaid
 classDiagram
   class Character{

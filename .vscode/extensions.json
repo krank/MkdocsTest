@@ -2,6 +2,8 @@
   "recommendations": [
     "telesoho.vscode-markdown-paste-image",
     "redhat.vscode-yaml",
-    "ms-python.python"
+    "ms-python.python",
+    "yzhang.markdown-all-in-one",
+    "marcuselg.markdowntoolbar"
   ]
 }

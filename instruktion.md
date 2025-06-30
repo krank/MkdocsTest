@@ -24,7 +24,7 @@
   - Klistra in med Ctrl+Alt+v
     - Acceptera defaultnamn eller välj eget
     - Nu bör bilden hamna i assets-mappen, och en bild-tagg hamnar i texten
-- Klistra in kod: Ctrl+Alt+c
+- Klistra in kod: Ctrl+Alt+c (funkar inte jättebra)
 - Snippets
   - lncode: kodblock med radnummer & titel
   - admon: inforutor
